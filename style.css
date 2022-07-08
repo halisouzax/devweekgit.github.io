@@ -37,8 +37,16 @@
 }
 
 .profile .profile-image {
+<<<<<<< HEAD
     width: 100%;
     border-radius: 100%;
+=======
+    width: 100;
+    border-radius: 100%;
+    
+
+    
+>>>>>>> 5119f961605fc23c993e8321cac2ecbf75c2f91c
 }
 
 .name {
@@ -52,7 +60,11 @@
     color: #eeeeee;
     font-size: 20px;
     text-transform: uppercase;
+<<<<<<< HEAD
     text-align: center;
+=======
+    text-align: left;
+>>>>>>> 5119f961605fc23c993e8321cac2ecbf75c2f91c
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
@@ -63,6 +75,10 @@
 
 .contact-info ul {
     padding-top: 1.5rem;
+<<<<<<< HEAD
+=======
+    font-size: 90%;
+>>>>>>> 5119f961605fc23c993e8321cac2ecbf75c2f91c
 }
 
 .contact-info ul li,
@@ -100,6 +116,7 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+<<<<<<< HEAD
 }
 
 .experience-contents,
@@ -135,4 +152,6 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+=======
+>>>>>>> 5119f961605fc23c993e8321cac2ecbf75c2f91c
 }
